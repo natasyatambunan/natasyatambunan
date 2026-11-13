@@ -11,6 +11,7 @@ Mahasiswa D-III Teknologi Informasi di **Institut Teknologi Del** (angkatan 2024
 |---|---|---|
 | [Aplikasi Offline-First Posyandu untuk Pemantauan Perkembangan dan Kesehatan Anak](https://github.com/natasyatambunan/Aplikasi-Posyandu-Offline-First) (Tugas Akhir) | 2026 | UI/UX, Frontend, Backend |
 | [Aplikasi Bank Sampah Tarhilala, Toba](https://github.com/natasyatambunan/Aplikasi-Bank-Sampah-Tarhilala) (Proyek Akhir 2) | 2026 | UI/UX, Frontend |
+| [Aplikasi Lost & Found IT Del](https://github.com/natasyatambunan/Aplikasi-Lost-and-Found) (Proyek PAM & SBD) | 2025 | UI/UX, Frontend |
 | [Website Desa Tambunan](https://github.com/natasyatambunan/website-Desa-Tambunan) (Proyek Akhir 1) | 2025 | UI/UX, Frontend |
 
 ### 📫 Kontak
